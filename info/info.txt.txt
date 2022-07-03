@@ -1,8 +1,1 @@
-<<<<<<< HEAD
 Bhrigunath gupta
-=======
-Shekhar
->>>>>>> 7e2d970499d77dddeae0ddc34bc0a47505e92ff7
-=======
-Shekhar
->>>>>>> 7e2d970499d77dddeae0ddc34bc0a47505e92ff7
